@@ -1,0 +1,24 @@
+id,prompt,continuation,n_tokens,token_ids
+AB_01,"In statistics, a confidence interval is"," an interval calculated from the observed data that consists of a sample statistic (sample mean, sample proportion, sample variance, or mean squared error) that is",30,"[354, 11805, 8449, 429, 260, 4537, 940, 338, 5956, 282, 253, 4315, 22879, 365, 10029, 1441, 28, 4315, 8258, 28, 4315, 17943, 28, 355, 1441, 27402, 4514, 25, 338, 314]"
+AB_02,"In statistics, a confidence interval is"," a total number of standard errors divided by 3x3 of the population variance.
+
+In Minitab, we use the formula:
+",30,"[253, 2719, 1230, 282, 2920, 6573, 6066, 411, 216, 35, 104, 35, 282, 260, 2155, 17943, 30, 198, 198, 788, 372, 2563, 369, 28, 392, 722, 260, 7961, 42, 198]"
+AB_03,"In statistics, a confidence interval is", a range of result that a statistic is said to be likely to contain the true value of the population parameter for a prescribed confidence level (CL). The,30,"[253, 1845, 282, 966, 338, 253, 22879, 314, 1137, 288, 325, 2003, 288, 2127, 260, 2629, 1685, 282, 260, 2155, 8709, 327, 253, 10609, 6204, 1106, 365, 7430, 595, 378]"
+AB_04,"In statistics, a confidence interval is", said to be calculated by drawing a sample (or as many samples as necessary) from a population and performing some statistical tests on those samples. In order,30,"[1137, 288, 325, 8449, 411, 5510, 253, 4315, 365, 270, 347, 800, 5059, 347, 2371, 25, 429, 253, 2155, 284, 7691, 634, 9598, 3642, 335, 967, 5059, 30, 533, 1686]"
+AB_05,"In statistics, a confidence interval is"," 1 − σ².
+Correlation
+Corr indicates a positive correlation, −0.5 to +0.5.
+Sign Cor",30,"[216, 33, 20826, 32437, 19133, 30, 198, 16116, 21803, 198, 16116, 98, 6773, 253, 2731, 11400, 28, 20826, 32, 30, 37, 288, 1232, 32, 30, 37, 30, 198, 13219, 4618]"
+AB_06,"In statistics, a confidence interval is", a type of confidence distribution that is calculated using the sample data and analytical formulas to estimate a population parameter. Confidence intervals for a single parameter are generated from,30,"[253, 1502, 282, 6204, 4225, 338, 314, 8449, 1015, 260, 4315, 940, 284, 13434, 18306, 288, 7493, 253, 2155, 8709, 30, 39554, 12752, 327, 253, 2244, 8709, 359, 6171, 429]"
+AB_07,"In statistics, a confidence interval is"," generally defined as the lower bound of a finite interval's test statistic (e.g., a sample statistic, a test statistic or test statistic).
+",30,"[3178, 4355, 347, 260, 2208, 3607, 282, 253, 17710, 11805, 506, 1028, 22879, 365, 85, 30, 87, 1143, 253, 4315, 22879, 28, 253, 1028, 22879, 355, 1028, 22879, 595, 198]"
+AB_08,"In statistics, a confidence interval is", the range of the population values along which the standard deviation has been calculated for each of the estimated population values. The confidence interval indicates the extent to which,30,"[260, 1845, 282, 260, 2155, 2396, 1683, 527, 260, 2920, 16960, 553, 719, 8449, 327, 971, 282, 260, 5183, 2155, 2396, 30, 378, 6204, 11805, 6773, 260, 5815, 288, 527]"
+AB_09,"In statistics, a confidence interval is"," a confimation range (also confimcation window) around opulation mu for sampling error. It is calculated using format:
+
+t",30,"[253, 1086, 14278, 1845, 365, 9783, 1086, 306, 83, 309, 5700, 25, 1130, 1158, 1247, 16541, 327, 10479, 4514, 30, 657, 314, 8449, 1015, 910, 261, 42, 198, 198, 100]"
+AB_10,"In statistics, a confidence interval is"," a number that describes the uncertainty of the middle of a group of observations. An interval is used for a whole range of samples, instead of particular numbers",30,"[253, 1230, 338, 6601, 260, 10443, 282, 260, 3891, 282, 253, 1528, 282, 6826, 30, 1117, 11805, 314, 804, 327, 253, 2444, 1845, 282, 5059, 28, 2489, 282, 1542, 2966]"
+AB_11,"In statistics, a confidence interval is"," all about measuring the probability that a new prediction for a value in the domain is within a known range. When we build the confidence interval, it is",30,"[511, 563, 8280, 260, 8746, 338, 253, 725, 12435, 327, 253, 1685, 281, 260, 6902, 314, 1127, 253, 1343, 1845, 30, 1550, 392, 1235, 260, 6204, 11805, 28, 357, 314]"
+AB_12,"In statistics, a confidence interval is"," a range of values representing a point estimate of something more likely than not but less likely to be closer to the value itself.
+
+For example,",30,"[253, 1845, 282, 2396, 7834, 253, 1225, 7493, 282, 1488, 540, 2003, 670, 441, 564, 1181, 2003, 288, 325, 5567, 288, 260, 1685, 2581, 30, 198, 198, 2193, 1183, 28]"
